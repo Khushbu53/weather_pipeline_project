@@ -1,1 +1,15 @@
+API_KEY = "YOUR_OPENWEATHERMAP_API_KEY"
+
+CITIES = [
+    "Ahmedabad",
+    "Mumbai",
+    "Delhi",
+    "Bangalore",
+    "Chennai"
+]
+
+DATABASE_PATH = "database/weather_data.db"
+
+TEMP_ALERT = 30
+HUMIDITY_ALERT = 75
 
